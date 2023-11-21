@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cheng/Videos/course/datastruct/dsacpp-src/src/random/Shuffle.cpp
+iostream
+-
+Shuffle.h
+/home/cheng/Videos/course/datastruct/dsacpp-src/src/random/Shuffle.h
+
+/home/cheng/Videos/course/datastruct/dsacpp-src/src/random/Shuffle.h
+

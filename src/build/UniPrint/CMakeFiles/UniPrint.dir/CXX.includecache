@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cheng/Videos/course/datastruct/dsacpp-src/src/UniPrint/print_int_array.cpp
+cstdio
+-
+print_int_array.h
+/home/cheng/Videos/course/datastruct/dsacpp-src/src/UniPrint/print_int_array.h
+
+/home/cheng/Videos/course/datastruct/dsacpp-src/src/UniPrint/print_int_array.h
+cstdio
+-
+

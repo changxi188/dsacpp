@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/cheng/Videos/course/datastruct/dsacpp-src/src/build/UniPrint",
+  "command": "/usr/bin/c++  -DUniPrint_EXPORTS -I/home/cheng/Videos/course/datastruct/dsacpp-src/src  -fPIC   -o CMakeFiles/UniPrint.dir/print_int_array.cpp.o -c /home/cheng/Videos/course/datastruct/dsacpp-src/src/UniPrint/print_int_array.cpp",
+  "file": "/home/cheng/Videos/course/datastruct/dsacpp-src/src/UniPrint/print_int_array.cpp"
+},
+{
+  "directory": "/home/cheng/Videos/course/datastruct/dsacpp-src/src/build/random",
+  "command": "/usr/bin/c++  -Drandom_EXPORTS -I/home/cheng/Videos/course/datastruct/dsacpp-src/src  -fPIC   -o CMakeFiles/random.dir/Shuffle.cpp.o -c /home/cheng/Videos/course/datastruct/dsacpp-src/src/random/Shuffle.cpp",
+  "file": "/home/cheng/Videos/course/datastruct/dsacpp-src/src/random/Shuffle.cpp"
+},
+{
+  "directory": "/home/cheng/Videos/course/datastruct/dsacpp-src/src/build/reverse",
+  "command": "/usr/bin/c++  -Dreverse_EXPORTS -I/home/cheng/Videos/course/datastruct/dsacpp-src/src  -fPIC   -o CMakeFiles/reverse.dir/reverse.cpp.o -c /home/cheng/Videos/course/datastruct/dsacpp-src/src/reverse/reverse.cpp",
+  "file": "/home/cheng/Videos/course/datastruct/dsacpp-src/src/reverse/reverse.cpp"
+},
+{
+  "directory": "/home/cheng/Videos/course/datastruct/dsacpp-src/src/build/reverse",
+  "command": "/usr/bin/c++  -Dreverse_EXPORTS -I/home/cheng/Videos/course/datastruct/dsacpp-src/src  -fPIC   -o CMakeFiles/reverse.dir/reverse-recursive.cpp.o -c /home/cheng/Videos/course/datastruct/dsacpp-src/src/reverse/reverse-recursive.cpp",
+  "file": "/home/cheng/Videos/course/datastruct/dsacpp-src/src/reverse/reverse-recursive.cpp"
+},
+{
+  "directory": "/home/cheng/Videos/course/datastruct/dsacpp-src/src/build/sum",
+  "command": "/usr/bin/c++   -I/home/cheng/Videos/course/datastruct/dsacpp-src/src    -o CMakeFiles/main.dir/main.cpp.o -c /home/cheng/Videos/course/datastruct/dsacpp-src/src/sum/main.cpp",
+  "file": "/home/cheng/Videos/course/datastruct/dsacpp-src/src/sum/main.cpp"
+},
+{
+  "directory": "/home/cheng/Videos/course/datastruct/dsacpp-src/src/build/sum",
+  "command": "/usr/bin/c++   -I/home/cheng/Videos/course/datastruct/dsacpp-src/src    -o CMakeFiles/main.dir/sum0.cpp.o -c /home/cheng/Videos/course/datastruct/dsacpp-src/src/sum/sum0.cpp",
+  "file": "/home/cheng/Videos/course/datastruct/dsacpp-src/src/sum/sum0.cpp"
+},
+{
+  "directory": "/home/cheng/Videos/course/datastruct/dsacpp-src/src/build/sum",
+  "command": "/usr/bin/c++   -I/home/cheng/Videos/course/datastruct/dsacpp-src/src    -o CMakeFiles/main.dir/sum1.cpp.o -c /home/cheng/Videos/course/datastruct/dsacpp-src/src/sum/sum1.cpp",
+  "file": "/home/cheng/Videos/course/datastruct/dsacpp-src/src/sum/sum1.cpp"
+},
+{
+  "directory": "/home/cheng/Videos/course/datastruct/dsacpp-src/src/build/sum",
+  "command": "/usr/bin/c++   -I/home/cheng/Videos/course/datastruct/dsacpp-src/src    -o CMakeFiles/main.dir/sum2.cpp.o -c /home/cheng/Videos/course/datastruct/dsacpp-src/src/sum/sum2.cpp",
+  "file": "/home/cheng/Videos/course/datastruct/dsacpp-src/src/sum/sum2.cpp"
+}
+]
